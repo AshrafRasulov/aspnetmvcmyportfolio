@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIIWgm2PcXNJuRgWpfMUsa+/BAEKkuxp0UWXv/r6ip+AQT8PUtjnfoVbA12QkGA/u3ILprYsKtcz5gttLsG3OA==",
+  "dgSpecHash": "ZaFjGUWOoUJ26rERbulBIMwOb3U2R4NN+IqxtH//nhwlpa6qmNJT4MQM8X1awFsIBsKSIqMp8zNgd41mY0BPPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashraf.rasulov\\.nuget\\packages\\asp.versioning.abstractions\\6.0.0\\asp.versioning.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ashraf.rasulov\\.nuget\\packages\\asp.versioning.http\\6.0.0\\asp.versioning.http.6.0.0.nupkg.sha512",

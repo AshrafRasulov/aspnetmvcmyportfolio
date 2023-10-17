@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj": {}
+    "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj": {
+    "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
         "projectName": "MyPortfolioWebAPI",
-        "projectPath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
+        "projectPath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\MyPortfolioWebAPI.csproj",
         "packagesPath": "C:\\Users\\ashraf.rasulov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\ashraf.rasulov\\Desktop\\Chat-pat\\myportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\aspnetmvcmyportfolio\\MyPortfolioWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

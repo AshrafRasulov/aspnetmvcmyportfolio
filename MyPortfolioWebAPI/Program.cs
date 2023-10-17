@@ -1,11 +1,16 @@
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.EntityFrameworkCore;
+using MyPortfolioWebAPI.Data;
 
+var builder = WebApplication.CreateBuilder(args);
+var services = builder.Services;
+string ConnStr = builder.Configuration.GetConnectionString("addressDb");
 // Add services to the container.
 
-builder.Services.AddControllers();
+services.AddControllers();
+services.AddDbContext<AppDbContext>(options=>options.UseSqlServer(ConnStr));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+services.AddEndpointsApiExplorer();
+services.AddSwaggerGen();
 
 var app = builder.Build();
 
